@@ -11,8 +11,6 @@ A Full Stack Developer, Industrial Software Programmer, Industrial and Marine So
 * ✉️  You can contact me at [hojjat.zangeneh@gmail.com](mailto:hojjat.zangeneh@gmail.com)
 * 🚀  I'm currently working on [My Blog](http://turboplus.ir)
 * 🧠  I'm learning Odoo Framework
-* 🤝  I'm open to collaborating on 333
-* ⚡  3333
 
 <a href="https://www.github.com/hojjatzangeneh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/hojjatzangeneh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/hojjat_zangeneh" target="_blank" rel="noreferrer"><img
